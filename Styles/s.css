@@ -1,3 +1,10 @@
-* {
-  margin-left:50 px;
+
+.footers {
+    position:sticky;
+    text-align:center;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    border-top: solid black;
+    background-color: rgb(221,211, 211);
 }
