@@ -1,3 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+*[href]:hover {
+  color: Green;
+}
+img[href]:hover{
+  color: initial;
+}
+.header{
+  text-align:center;
+
+}
 
 .footers {
     position:sticky;
