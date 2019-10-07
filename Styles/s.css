@@ -1,6 +1,6 @@
-* {
-  margin: 0;
-  padding: 0;
+*{
+  margin:10;
+  padding:10;
 }
 *[href]:hover {
   color: Green;
@@ -12,7 +12,13 @@ img[href]:hover{
   text-align:center;
 
 }
-
+#Source{
+  text-align:center;
+  margin-top: 20px ;
+}
+ol > li {
+text-align:center;
+}
 .footers {
     position:sticky;
     text-align:center;
